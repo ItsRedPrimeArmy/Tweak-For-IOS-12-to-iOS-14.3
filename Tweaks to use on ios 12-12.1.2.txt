@@ -16,9 +16,35 @@ SpringPlus 11
 SwipeForMore
 Sileo
 iPad Status Bar
-Localiapstore
-
-
+Localiapstore-
+Maple Beta – 
+Shuffle – 
+Mitsuha Infinity – 
+NextUp 2 – 
+Music Artwork – 
+No Idle Timer – 
+Shy Labels – 
+Sonus12 – 
+CopyLog –
+Vesta – 
+SnoozeX –
+DNDAllow – 
+Essentials – 
+Leave Me Alone – 
+TinyBanners – 
+BarScape – 
+Color Board – 
+Organic Emoji Scrubber 
+NoLSScreenShot – 
+SilentScreenShot
+SmartLight 
+Modulus
+Vibrato 
+Siri Invisible 
+Myriad Beta – 
+Tacitus 
+Xeon Beta 
+Dark Keyboard 
 
 
 

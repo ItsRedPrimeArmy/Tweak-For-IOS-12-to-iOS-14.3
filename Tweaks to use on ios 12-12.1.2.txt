@@ -31,23 +31,32 @@ SnoozeX –
 DNDAllow – 
 Essentials – 
 Leave Me Alone – 
-TinyBanners – 
+TinyBanners
 BarScape – 
 Color Board – 
 Organic Emoji Scrubber 
-NoLSScreenShot – 
+NoLSScreenShot 
 SilentScreenShot
 SmartLight 
 Modulus
 Vibrato 
 Siri Invisible 
-Myriad Beta – 
+Myriad Beta 
 Tacitus 
 Xeon Beta 
 Dark Keyboard 
-
-
-
+Magma
+PhotoManager
+oAlbumsTitle 
+Renovare
+PullOver Pro 
+Sylph  
+Clean Player 
+Muisclockplayer
+MicroPlayer12 
+Konban 
+Classic player
+FindMyiDeviceXS
 
 
 

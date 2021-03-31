@@ -58,9 +58,187 @@ Konban
 Classic player
 FindMyiDeviceXS
 
+iOS 14-14.3:
 
 
-
+3DBadgeClear
+MoreFrequentlyUsedEmojis
+A-Font
+A-Shield
+Accelerated Home Button
+Accent
+AdGuard
+AddToFolder
+AlarmVolume
+Amonglock
+AppData
+AppStore++
+Apple File Conduit 2
+Applist
+Apps Manager
+Arkrome
+BHTwitter
+Batterylife
+BetterCCXI
+BetterSettings
+BioProtect XS
+BlockYouX
+CC On & Off
+CCModules
+CCModules Pro
+CCMusic Artwork
+CCSupport
+CCVPN
+CacheCleaner
+CallConnect
+Calm
+CarBridge
+CarrierDate
+Carrierizer 2
+Cercube for Youtube
+Choicy
+CircleIcons
+ColorBanners 3
+Colorflow 5
+Complications
+CozyBadges
+Cr4shed
+Crane
+Date in StatusBar
+DeleteCut
+Disable Parallax Effect
+Dock Controller
+DoubleCut
+Dragspring
+DuplexClock
+Eclipse
+Escape
+ExactTime
+Externalizer
+FLyJB
+FacebookNoADS
+FastLPM
+Filza File Manager
+FiveDock13
+FiveiconDock 13-14
+Flame
+Flex3
+FlicksForAll
+Flow
+FuckTube
+GesturesXS
+Gesturesi11
+GoodWiFi
+Gyration
+HalfiPad
+Hide JB Apps
+HideConvos Pro
+HideJB
+HideYourApps
+Hidelabels13
+HomeKit Hub Enabler
+ICLeaner Pro
+IG KillAutoplay
+Instagram No ADS
+Instagram++
+Installer 5
+Jellyfish
+Kalm
+Keyboard Accio
+KillX Pro
+Kleidaria
+Laetus
+Last look
+LetMeBlock
+LetMeDecline
+Liberty Lite
+Lifeguard
+Long Swipe
+LowBatteryBanner
+MCPatch
+MagSafe Controller
+Magma Evo
+Max Photo Zoom
+Mega UHB IPv4 Only – iOS 9/10/11/12 – MUHB IPv4 (Mega Untrusted Hosts Blocker)
+MiMPort
+Mikoto
+MirrorSelfie
+MobileGoose
+MusicBeQuiet
+NewTerm (iOS 10-13)
+NoClutter
+NoIconFlyIn13
+NoLiveClock
+NoOlderNotificationsGone
+NoTrackpadDelay
+PerfectAppSwitcher
+Pictter
+PowerSelector
+PowerSettings
+Powerapp
+PreferenceLoader
+ProperLockGestures
+PullToRespring
+Quart
+Quitall
+RealCC
+Relocate Reborn
+Rhino for Instagram
+Rocket for Instagram
+RocketBootStrap
+RoundedModules
+SITUM Pro
+SafariFullScreenScrolling
+SafeRespring
+Scrollback
+SelectMoji
+Selector
+Sentinel
+SetTrust
+Shadow
+ShortLook
+Shortmoji
+Shuffle
+Skinnysettings
+SmartNetwork
+SmartRotate
+SmartVPN
+Snapper2
+SnowBoard
+Sphere
+Stalky
+StatusFolder
+StatusSwitcher
+Substrate Safe Mode
+SugarCane
+SwipeExtenderX
+SwipeForMore
+System Info
+TabBlocker
+TapTapLock
+TetherMe for iOS8+
+TheUnlockCounter
+Translation
+Translock
+Twitter No Ads
+UHB – iOS 9/10/11/12 (Untrusted Hosts Blocker)
+Untrusted Hosts Blocker + LetMeBlock
+Velvet
+Watusi 2 for Whatsapp
+WhatsTheDate
+Whatsapp Reveal
+WiFiCarrier+
+Xeon
+YouTube Tools
+Youtube Reborn
+YoutubeMusicReborn
+Zebra
+Zenith
+iKSetting
+iPadBar13
+iSponserBlock
+shuffle
+tweakCompatible
 
 
 
